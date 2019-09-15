@@ -1,6 +1,10 @@
-# Pierre Dognin
+---
+title: "Pierre Dognin"
+layout: default
+order: 1
+---
 
-## About
+# About
 
 I have been at IBM Research since 2005 working on Machine Learning and Deep Learning for Computer Vision (CV) and Automatic Speech Recognition (ASR). Multimodal Learning combining modalities of speech, image, video and text has been the focus of my current work in bi-directional retrieval, image retrieval, captioning, etc.
 
