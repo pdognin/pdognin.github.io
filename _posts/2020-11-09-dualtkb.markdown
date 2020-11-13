@@ -7,4 +7,4 @@ categories: dualtkb
 
 DualTKB is a dual learning approach for unsupervised path to text and text path generation.
 This work will be presented at EMNLP'20. In the mean time, our [Paper](https://arxiv.org/abs/2010.14660) is on arXiv for more details.
-We will provide code, information about dataset in the future on [IBM DualTKB website[(https://github.com/IBM/dualtkb).
+We will provide code, information about dataset in the future on [IBM DualTKB website](https://github.com/IBM/dualtkb).
