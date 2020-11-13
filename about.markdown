@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is a website about my research 
-You can find the source code for Jekyll at GitHub:
+I am a Research Scientist at IBm Research AI. This website presents some of my research work.
+
