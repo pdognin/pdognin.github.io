@@ -32,6 +32,7 @@ github_username:  pdognin
 theme: minima
 plugins:
   - jekyll-feed
+markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
