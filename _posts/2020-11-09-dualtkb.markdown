@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "DualTKB: A Dual Learning Bridge between Text and Knowledge Base"
+title:  "DualTKB: A Dual Learning Bridge between Text and Knowledge Base at EMNLP'20"
 date:   2020-11-09 19:09:25 -0500
 categories: dualtkb
 usemathjax: true
 ---
 
-DualTKB is a dual learning approach for unsupervised path to text and text path generation.
-This work will be presented at EMNLP'20. In the mean time, our [Paper](https://arxiv.org/abs/2010.14660) is on arXiv for more details.
-We will provide code, information about dataset in the future on [IBM DualTKB website](https://github.com/IBM/dualtkb).
+DualTKB is a dual learning approach for unsupervised path-to-text and text-to-path generation where we reframe this transfer as a translation task  
 
-$$ y = \pi d $$
+This work will be presented at the EMNLP’20 Gather Session 5D “Information Extraction” on 11/18/2020 at 1pm (UTC-5) US East Coast Time
 
-    
+A [DualTKB short description](https://github.com/IBM/dualtkb#dualtkb) can be found on the companion [IBM DualTKB website](https://github.com/IBM/dualtkb). There, we will provide code, information about dataset, etc. over the next weeks.  
+For more in depth information, a version of our EMNLP'20 [paper](https://arxiv.org/abs/2010.14660) is available on arXiv.

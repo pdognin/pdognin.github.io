@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Winner of VizWiz Grand Challenge 2020"
+date:   2020-06-14 12:40:00 -0500
+categories: vizwiz
+usemathjax: true
+---
+
+Our Multimodal Team (MMTeam) was the winner of the [VizWiz Grand Challenge 2020](https://vizwiz.org/).  
+Our team finished in 1st place after few months of intense work.  
+
+You can see our final results on the [Leaderboard](https://eval.ai/web/challenges/challenge-page/525/leaderboard/1467) as "IBM Research AI" entry.
+
+| Rank| Participant|B1|B2|B3|B4|ROUGE|METEOR|CIDEr|SPICE|
+|1|	IBM Research AI|72.77|54.17|38.97|27.44|50.20|22.25|81.04|17.00|
+|2|	CASIA_IVA      |71.97|53.59|38.94|27.96|49.90|21.93|77.70|17.79|
+|3|	RUC_AIM3       |68.00| 49.37|35.24|25.05|47.43|20.46|72.72|15.98|
+
+
+We presented our results at the [CVPR VizWiz Grand Challenge 2020 Workshop](https://vizwiz.org/workshops/2020-workshop/) on June,14 2020 at CVPR 2020, where you can find talks from the top-3 teams
+- 1st place: MMTeam (IBM) ([video](https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop/videos/MMTeam-oral.mp4))
+- 2nd place: SRC-B_VCLab (Samsung Research China-Beijing)
+- 3rd place: aburns (Boston University)
+
+The video for the [our presentation](https://ivc.ischool.utexas.edu/~yz9244/VizWiz_workshop/videos/MMTeam-oral.mp4) gives a description of the multimodal model we used with modules for image, object detection, and OCR combined w/ and w/o copy mechanism.
+
+The Challenge was an equal effort of the MMTeam composed of Pierre Dognin, Igor Melnyk, Youssef Mroueh, Inkit Padhi, Mattia Rigotti, Jerret Ross, and Yair Schiff.
+
+
+
