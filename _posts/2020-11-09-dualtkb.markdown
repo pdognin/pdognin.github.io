@@ -12,3 +12,7 @@ This work will be presented at the EMNLP’20 Gather Session 5D “Information E
 
 A [DualTKB short description](https://github.com/IBM/dualtkb#dualtkb) can be found on the companion [IBM DualTKB website](https://github.com/IBM/dualtkb). There, we will provide code, information about dataset, etc. over the next weeks.  
 For more in depth information, a version of our EMNLP'20 [paper](https://arxiv.org/abs/2010.14660) is available on arXiv.
+
+![DualTKB examples](/assets1/dualtkb_examples.jpeg?raw=true)
+
+![DualTKB examples](../assets/assets/post/2020_11_10_dualtkb/dualtkb_examples.jpeg?raw=true)
