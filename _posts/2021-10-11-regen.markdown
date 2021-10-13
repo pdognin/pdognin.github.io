@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "ReGen: Reinforcement Learning for Text and Knowledge Base Generation using Pretrained Language Models at EMNLP'21"
+date:   2021-10-11 18:00:00 -0500
+categories: regen
+usemathjax: true
+---
+
+# ReGen Presentation at EMNLP'21!
+
+Our Regen [paper](https://arxiv.org/abs/2108.12472) is available on [arXiv](https://arxiv.org/abs/2108.12472).
+It was chosen as Oral presentation. We also will be participating in the virtual poster presentation:
+
+- Oral Presentation: Session “3E: Machine Learning for NLP 2” – Sun 07/11 3:15pm - 3:30pm
+- Virtual Poster: Session V2 – Mon 08/11 12:30pm-2:30pm
+
+We are now working on the [ReGen website](https://github.com/IBM/regen) and will be publishing code there.
