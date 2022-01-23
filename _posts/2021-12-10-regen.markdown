@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "ReGen: Reinforcement Generation Code Released"
+date:   2021-12-10 18:00:00 -0500
+categories: regen
+usemathjax: true
+---
+
+# ReGen
+
+The code for Reinforceed Generation (ReGen) as descridbed in [paper](https://arxiv.org/abs/2108.12472) was released today! 
+It is available now at the [ReGen website](https://github.com/IBM/regen).
+
+We will continue to update it over the next months and add some features...
