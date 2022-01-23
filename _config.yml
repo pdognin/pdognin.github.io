@@ -3,14 +3,23 @@ title: Pierre Dognin
 email: pdognin@gmail.com
 name: Pierre Dognin
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal research web page with blog.
+  Personnal research webpage.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  pdognin
+timezone: America/New_York
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 markdown: kramdown
+
+exclude:
+  - bundle/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - examples.md
+  - readme.org
