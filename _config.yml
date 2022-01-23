@@ -22,4 +22,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - examples.md
+  - projects.md
   - readme.org
